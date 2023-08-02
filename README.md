@@ -15,7 +15,7 @@ Department of Information and Communication Engineering, Inha University. Republ
 🔭 Currently working on : ConnectCar
 
 💻 Tech Stack 💻
-- Android <a href="" target="_blank"><img src="https://img.shields.io/badge/3DDC84?style=for-the-badge&logo=android&logoColor=000000"/></a>
+- Android <a href="" target="_blank"><img src="https://img.shields.io/badge/?style=for-the-badge&logo=android&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/></a>
 
