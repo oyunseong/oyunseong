@@ -13,7 +13,7 @@
 
 I'm familiar with...
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-8b4513?style=flat&logo=&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF"/></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-8b4513?style=flat&logo=&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=adobexd&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Zeplin-EC1C24?style=flat&logo=&logoColor=FFFFFF"/></a>
 
 Techs that I've used at least once
 
