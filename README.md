@@ -17,5 +17,5 @@ I'm familiar with...
 
 Techs that I've used at least once
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=cplusplus&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-8b4513?style=flat&logo=&logoColor=FFFFFF"/></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-8b4513?style=flat&logo=&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/OpenCv-5C3EE8?style=flat&logo=opencv&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/OpenGL-412991?style=flat&logo=opengl&logoColor=FFFFFF"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=FFFFFF"/></a> 
 
