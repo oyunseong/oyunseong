@@ -1,15 +1,13 @@
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=FFFFFF"/></a>
+
 👋 Hi there, I'm YUNSEONG O
- 
 
-Department of Information and Communication Engineering, Inha University. Republic of Korea
+### Department of Information and Communication Engineering, Inha University. Republic of Korea
+- 😄 Pronouns : He/Him
+- ⚡ Field of interest : Android
+- 📫 How to reach me : gkrlsanj1@gmail.com
+- 🌱 Currently learning : Android
 
-😄 Pronouns : He/Him
-
-⚡ Field of interest : Android
-
-📫 How to reach me : gkrlsanj1@gmail.com
-
-🌱 Currently learning : Android
 
 💻 Tech Stack 💻
 
