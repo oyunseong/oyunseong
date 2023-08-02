@@ -1,6 +1,6 @@
+# 👋 Hi there, I'm YUNSEONG O
+---
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=FFFFFF"/></a>
-
-👋 Hi there, I'm YUNSEONG O
 
 ### Department of Information and Communication Engineering, Inha University. Republic of Korea
 - 😄 Pronouns : He/Him
