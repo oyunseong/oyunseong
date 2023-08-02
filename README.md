@@ -4,8 +4,11 @@
 Department of Information and Communication Engineering, Inha University. Republic of Korea
 
 😄 Pronouns : He/Him
+
 ⚡ Field of interest : Android
+
 📫 How to reach me : gkrlsanj1@gmail.com
+
 🌱 Currently learning : Android
 
 💻 Tech Stack 💻
