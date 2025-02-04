@@ -6,7 +6,7 @@
 - 😄 Pronouns : He/Him
 - ⚡ Field of interest : Android
 - 📫 How to reach me : gkrlsanj1@gmail.com
-- 🌱 Currently learning : Android Jetpack Compose
+- 🌱 Currently learning : KMP(Kotlin MultiPlatform) & React 
 
 
 💻 Tech Stack 💻
